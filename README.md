@@ -23,37 +23,37 @@
 
     <a href="https://console.cloud.google.com/projectcreate">Link Google Cloud Console Create Project</a>
 </p>
-<img src='./images_tutorial/image0.png'/>
+<img src='./Images_tutorial/Image0.png'/>
 
-<img src='./images_tutorial/image.png'/>
+<img src='./Images_tutorial/Image.png'/>
 
-<img src='./images_tutorial/image1.png'/>
+<img src='./Images_tutorial/Image1.png'/>
 
-<img src='./images_tutorial/image2.png'/>
+<img src='./Images_tutorial/Image2.png'/>
 
-<img src='./images_tutorial/image3.png'/>
+<img src='./Images_tutorial/Image3.png'/>
 
-<img src='./images_tutorial/image4.png'/>
+<img src='./Images_tutorial/Image4.png'/>
 
-<img src='./images_tutorial/image5.png'/>
+<img src='./Images_tutorial/Image5.png'/>
 
-<img src='./images_tutorial/image6.png'/>
+<img src='./Images_tutorial/Image6.png'/>
 
-<img src='./images_tutorial/image7.png'/>
+<img src='./Images_tutorial/Image7.png'/>
 
-<img src='./images_tutorial/image8.png'/>
+<img src='./Images_tutorial/Image8.png'/>
 
-<img src='./images_tutorial/image9.png'/>
+<img src='./Images_tutorial/Image9.png'/>
 
-<img src='./images_tutorial/image10.png'/>
+<img src='./Images_tutorial/Image10.png'/>
 
-<img src='./images_tutorial/image11.png'/>
+<img src='./Images_tutorial/Image11.png'/>
 
-<img src='./images_tutorial/image12.png'/>
+<img src='./Images_tutorial/Image12.png'/>
 
-<img src='./images_tutorial/image13.png'/>
+<img src='./Images_tutorial/Image13.png'/>
 
-<img src='./images_tutorial/image14.png'/>
+<img src='./Images_tutorial/Image14.png'/>
 
 <p>Add in file app_config!</p>
 
