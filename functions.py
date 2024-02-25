@@ -23,7 +23,7 @@ def check_login(session):
             return False
         
         
-        # Salva novos tokens 
+        # Save New token 
         session['access_token'] = token['access_token'] 
         session['exp'] = datetime.now().timestamp() + token['expires_in'] - (60 * 5)
 
