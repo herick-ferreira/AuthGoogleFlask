@@ -1,28 +1,12 @@
-<style>
-
-    img {
-        width: 90%;
-        margin-left:5%
-    }
-
-    h1 {
-        font-size: 4vw
-    }
-
-    p {
-        font-size: 3vw
-    }
-
-
-</style>
-
 <h1>Tutorial OAuth Google App Flask</h1>
 
 <p>
     Steps to create the app in Google Cloud Console
-
-    <a href="https://console.cloud.google.com/projectcreate">Link Google Cloud Console Create Project</a>
 </p>
+
+<p><a href="https://console.cloud.google.com/projectcreate">Link Google Cloud Console Create Project</a></p>
+
+
 <img src='./images_tutorial/Image0.png'/>
 
 <img src='./images_tutorial/Image.png'/>
