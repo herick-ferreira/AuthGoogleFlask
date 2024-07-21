@@ -13,6 +13,8 @@
 
 <img src='./images_tutorial/Image1.png'/>
 
+<img src='./images_tutorial/Image1_1.png'/>
+
 <img src='./images_tutorial/Image2.png'/>
 
 <img src='./images_tutorial/Image3.png'/>
